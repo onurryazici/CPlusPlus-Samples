@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\onurr\source\repos\BoxPlacementOnSpace\BoxPlacementOnSpace\main.cpp(79,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\onurr\source\repos\BoxPlacementOnSpace\BoxPlacementOnSpace\main.cpp(92,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\onurr\source\repos\BoxPlacementOnSpace\BoxPlacementOnSpace\main.cpp(75,12): warning C4101: 'xCenterOfMass': unreferenced local variable
+C:\Users\onurr\source\repos\BoxPlacementOnSpace\BoxPlacementOnSpace\main.cpp(76,12): warning C4101: 'yCenterOfMass': unreferenced local variable
+C:\Users\onurr\source\repos\BoxPlacementOnSpace\BoxPlacementOnSpace\main.cpp(117,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\onurr\source\repos\BoxPlacementOnSpace\BoxPlacementOnSpace\main.cpp(282,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  BoxPlacementOnSpace.vcxproj -> C:\Users\onurr\source\repos\BoxPlacementOnSpace\Debug\BoxPlacementOnSpace.exe

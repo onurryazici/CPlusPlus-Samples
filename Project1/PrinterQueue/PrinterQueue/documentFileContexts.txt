@@ -1,0 +1,16 @@
+files/1.docx	44087	4	user1	surname1	username1	ex1@example.tr	2014	1	30	1	48	34
+files/2.docx	46543	2	user2	surname2	username2	ex2@example.tr	2013	10	12	2	7	10	*
+files/3.docx	121302	5	user3	surname3	username3	ex3@example.tr	2016	4	15	15	8	6	*
+files/4.docx	73762	4	user4	surname4	username4	ex4@example.tr	2017	11	13	19	15	8
+files/5.docx	123394	1	user5	surname5	username5	ex5@example.tr	2013	5	7	9	9	23	*
+files/6.docx	73468	2	user6	surname6	username6	ex6@example.tr	2016	11	21	23	3	7
+files/7.pdf	98889	1	user7	surname7	username7	ex7@example.tr	2015	10	22	11	25	42
+files/8.pdf	81120	1	user8	surname8	username8	ex8@example.tr	2018	10	3	23	43	54
+files/9.pdf	25954	2	user9	surname9	username9	ex9@example.tr	2015	11	1	7	17	23
+files/10.cpp	76016	6	user10	surname10	username10	ex10@example.tr	2016	11	19	13	59	17
+files/11.cpp	52982	5	user11	surname11	username11	ex11@example.tr	2015	8	12	12	20	22
+files/12.c	59369	2	user12	surname12	username12	ex12@example.tr	2017	3	6	5	41	8
+files/13.pdf	54018	2	user13	surname13	username13	ex13@example.tr	2017	7	2	2	42	19
+files/14.docx	8803	2	user14	surname14	username14	ex14@example.tr	2018	11	13	4	33	24
+files/15.rtf	108384	3	user15	surname15	username15	ex15@example.tr	2015	9	24	20	29	55
+files/16.odf	70000	1	user16	surname16	username16	ex16@example.tr	2018	11	26	22	8	53
