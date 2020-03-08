@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\onurr\source\repos\SobelFilter\SobelFilter\main.cpp(225,18): warning C4244: 'initializing': conversion from 'std::streamoff' to 'unsigned int', possible loss of data
+C:\Users\onurr\source\repos\SobelFilter\SobelFilter\main.cpp(312,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\onurr\source\repos\SobelFilter\SobelFilter\main.cpp(177): warning C4172: returning address of local variable or temporary: nullFstream
+  SobelFilter.vcxproj -> C:\Users\onurr\source\repos\SobelFilter\Debug\SobelFilter.exe
